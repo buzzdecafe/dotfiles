@@ -183,10 +183,10 @@ nnoremap  <C-q>    :wqall<CR>
 "-------------------------------------------------------------------------------
 " perl-support.vim
 "-------------------------------------------------------------------------------
-let g:Perl_AuthorName   = 'Michael Hurley'     
-let g:Perl_AuthorRef    = 'mh'                         
-let g:Perl_Company      = 'University of Connecticut School of Law'    
-let g:Perl_Email        = 'webmaster@law.uconn.edu'            
+let g:Perl_AuthorName   = 'Buzz de Cafe'     
+let g:Perl_AuthorRef    = 'bdc'                         
+let g:Perl_Company      = ''    
+let g:Perl_Email        = ''            
 "                         
 "-------------------------------------------------------------------------------
 " plugin taglist.vim : toggle the taglist window
