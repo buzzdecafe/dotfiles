@@ -1,4 +1,4 @@
-
+set t_Co=256
 set number
 set autoindent
 set pastetoggle=<F2>
